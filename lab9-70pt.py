@@ -12,7 +12,7 @@
 # Accept user input 
 # Calculate fahrenheit
 # Output answer
-
+print "What number would you like to convert?"
 userInput = int(raw_input())
 userInput = userInput*9/5+32
 print userInput 
